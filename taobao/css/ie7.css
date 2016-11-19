@@ -1,0 +1,131 @@
+.two{
+	display: none;
+}
+.list-dis5{
+	z-index: 22;
+}
+.list-dis2{
+	z-index: 1;
+}
+.list-dis{
+	z-index: 1;
+}
+
+/*主题市场*/
+.theme-list1{
+	position: relative;
+}
+.xian{
+	position: absolute;
+	left:205px;
+	top:0;
+}
+.theme-list2{
+	position: relative;
+	margin-left:25px;
+}
+.xians{
+	position: absolute;
+	left:368px;
+	top:0;
+}
+.fangxiang{
+	display: none;
+}
+.bor{
+	margin-top:-30px;
+}
+
+.main-list>li{
+	height:30px;
+	line-height: 30px;
+	padding-left: 00px;
+	color:#fff;
+}
+.icon-list>li>div{
+	margin-left:0px;
+}
+.diye{
+	margin-top:-20px;
+}
+
+
+.saleimgbox1{
+	width:98px;
+	height:197px;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+.saleimgbox1>img{
+	width:99px;
+	height:197px;
+}
+
+
+.saleimgbox2{
+	width:131px;
+	height:197px;
+	border-bottom: 1px solid #ddd;
+}
+.saleimgbox2>img{
+	width:131px;
+	height:197px;
+}
+
+.saleimgy{
+	width:201px;
+	height:154px;
+	background: #fff;
+	position: relative;
+	overflow: hidden;
+
+}
+.saleimgy>img{
+	width:180px;
+	height:140px;
+	margin-top:7px;
+	margin-left:10px;
+}
+.wbot1{
+	width:106.7px;
+}
+/*有好货*/
+.leftgood{
+	height:1150px;
+}
+/*每日有好店*/
+.store{
+	height:1228px;
+}
+/*今日特卖*/
+.car{
+	width:294px;
+	height:223px;
+}
+.car>img{
+	width:294px;
+	height:223px;
+}
+
+/*热卖单品*/
+.bigre{
+	width:398px;
+}
+.bigre1{
+	width:232px;
+}
+.smre{
+	width:163px;
+
+}
+
+.retext{
+	padding-left: 26px;
+	width:462px;
+	height:30px;
+	line-height: 34px;
+	color:#ccc;
+}
+.relistbox{
+	height:32px;
+}

@@ -1,0 +1,62 @@
+.main{
+	margin-top:-28px;
+}
+
+.icon-list>li{
+	margin-left:1px;
+}
+
+.saleimgbox1{
+	width:98px;
+	height:197px;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+.saleimgbox1>img{
+	width:99px;
+	height:197px;
+}
+
+
+.saleimgbox2{
+	width:131px;
+	height:197px;
+	border-bottom: 1px solid #ddd;
+}
+.saleimgbox2>img{
+	width:131px;
+	height:197px;
+}
+
+.saleimgy{
+	width:201px;
+	height:154px;
+	background: #fff;
+	position: relative;
+	overflow: hidden;
+
+}
+.saleimgy>img{
+	width:180px;
+	height:140px;
+	margin-top:7px;
+	margin-left:10px;
+}
+.wbot1{
+	width:106.7px;
+}
+
+/*热卖单品*/
+.bigre{
+	width:398px;
+}
+.bigre1{
+	width:232px;
+}
+.smre{
+	width:163px;
+
+}
+.relistbox{
+	height:32px;
+}
